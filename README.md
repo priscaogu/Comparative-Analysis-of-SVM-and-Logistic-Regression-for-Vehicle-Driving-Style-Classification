@@ -98,8 +98,9 @@ Key findings:
 * Nama, A. (2024). *Understanding Cost Functions in Machine Learning*. Available at: [https://medium.com/@anishnama20/understanding-cost-functions-in-machine-learning-types-and-applications-cd7d8cc4b47d](https://medium.com/@anishnama20/understanding-cost-functions-in-machine-learning-types-and-applications-cd7d8cc4b47d)
 
 
-**Chidimma Ogu**
+# **Author**
 
+**Chidimma Ogu**
 Machine Learning & Data Science Researcher
 
 
