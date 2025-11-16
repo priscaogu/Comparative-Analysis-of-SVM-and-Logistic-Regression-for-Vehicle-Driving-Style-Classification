@@ -5,7 +5,7 @@
 This repository contains the full workflow, code, analysis, and modelling pipeline for predicting **traffic congestion levels** using multi-vehicle sensor datasets. The project compares **Logistic Regression** and **Support Vector Machines (SVM)**, incorporating SMOTE balancing, feature engineering, cost-function evaluation, and model performance assessment.
 
 
-## **📌 Project Overview**
+## **Project Overview**
 
 Modern vehicles generate rich sensor data that can be used to identify and predict traffic congestion patterns. This project applies machine-learning techniques to four real-world OBD datasets (Peugeot207_01, Peugeot207_02, OpelCorsa_01, OpelCorsa_02) to classify congestion into:
 
@@ -45,7 +45,7 @@ Class imbalance bar charts
 SMOTE-balanced bar charts
 
 
-## **⚙️ Model Building**
+## **Model Building**
 
 Two models were trained and evaluated on the balanced datasets:
 
@@ -60,7 +60,7 @@ Two models were trained and evaluated on the balanced datasets:
 * Excels at separating minority congestion classes.
 
 
-## ** Cost Function Evaluation**
+## **Cost Function Evaluation**
 
 Cost functions were computed on both **training and testing sets** for each dataset:
 
@@ -74,7 +74,7 @@ Summary:
 * No signs of overfitting across any dataset.
 
 
-## **📊 Model Evaluation**
+## **Model Evaluation**
 
 Metrics used:
 
@@ -91,7 +91,7 @@ Key findings:
 * Most challenging dataset: **Peugeot207_01** (highest LR Log-Loss: 0.647).
 
 
-** References**
+# **References**
 
 * Chawla, N.V. et al. (2002). *SMOTE: Synthetic Minority Oversampling Technique.*
 * scikit-learn documentation. Available at: [https://scikit-learn.org/stable/model_selection.html](https://scikit-learn.org/stable/model_selection.html)
